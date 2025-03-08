@@ -1,38 +1,37 @@
-# 🚀 Welcome to My Interdisciplinary STEM Projects Repository!  
+# >ᴗ< Welcome to My AI/ML/DL Projects Repository!  
 
-## 🌏 About Me  
-Hey there! I'm an aspiring researcher with a passion for **AI, interdisciplinary problem-solving, and STEM innovation**. 
-My goal is to leverage technology and research to tackle **real-world challenges**, particularly in **Japan's declining birth rate,
-AI-driven policy optimization, and education**. I am applying to **OIST's PhD program**, where I aim to contribute to 
-**cutting-edge interdisciplinary research** blending CS and science.  
+This repository is a collection of diverse projects combining AI and Science. Please, feel free to explore!
 
-## 🧠 Why This Repo?  
-This repository is a collection of **diverse projects** spanning **AI and Science**, 
-Each project is carefully crafted to highlight:  
-✅ **Problem-Solving Ability**  
-✅ **Interdisciplinary Thinking**  
-✅ **Technical and Research Skills**  
-✅ **Innovation and Creativity**  
 
-## 📂 Project Categories  
-🔹 **AI & Machine Learning** – Reinforcement Learning, NLP, Computer Vision  
-🔹 **Mathematical Modeling** – Optimization, Numerical Simulations  
-🔹 **Physics Simulations** – Computational Mechanics, Quantum Simulations  
-🔹 **Biological Data Analysis** – Genomics, Bioinformatics  
-🔹 **Policy & Economics Modeling** – AI-driven demographic analysis  
+## 😎 About Me  
+Hello there! 👋 My name is Hizkia Permata and I'm an aspiring researcher and educator with a passion for AI and problem 
+solving. My goal is to leverage technology and research to tackle real-world challenges. I believe in using technology and 
+research for greater impact—bridging AI education to create meaningful solutions. My work is driven by a passion to serve 
+society through science, research, and teaching. 
 
-## 🔥 Featured Projects  
+🎯 Fun Fact:
+- I grew up around academia—so you could say research is in my DNA! (Yes, I’m a professor’s child 😉).
+- Started teaching early! I volunteer to teach Math, English, and Music at age 14 in my parents ministry.
+- I can speak 5 languages 🤓 (My parents speaks 6, dang so close!)
+- I am a third culture kid. I traveled around the world 🇲🇳
+
+## Hobbies
+- Piano 🎹
+- Walking 🚶‍♂️
+- Gaming 🎮
+- Biking 🚴🏽‍♂️
+- Anime ⛩️
+- Programming 👨‍💻
+- Reading 📖
+- Memes 😹
+
+
+## 🔥 Projects In progress  
 🚀 **[Project Name]** – Brief description + key tech used  
 🧬 **[Project Name]** – Brief description + key tech used  
 📊 **[Project Name]** – Brief description + key tech used  
 
-## 🎯 My Mission  
-I believe in **using technology and research for greater impact**—bridging **AI, policy, and education** to create meaningful solutions. 
-My work is driven by a passion to **serve God through science and research in Japan**.  
-
-## 💡 Let's Connect!  
-🌐 [My Website/Portfolio]  
-📬 Reach out: [Your Email]  
-🐦 Twitter: [Your Handle]  
-💼 LinkedIn: [Your Profile]  
+## Contact
+If you have any question about my project or want to work with me.
+Please contact uniquehandoyo0@gmail.com
 
