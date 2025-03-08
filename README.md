@@ -32,6 +32,6 @@ society through science, research, and teaching.
 📊 **[Project Name]** – Brief description + key tech used  
 
 ## Contact
-If you have any question about my project or want to work with me.
+If you have any questions about my project.
 Please contact uniquehandoyo0@gmail.com
 
