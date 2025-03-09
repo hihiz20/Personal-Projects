@@ -3,11 +3,8 @@
 This repository is a collection of diverse projects combining AI and Science. Please, feel free to explore!
 
 
-
 ## 🔥 Projects In progress  
-🚀 **[Project Name]** – Brief description + key tech used  
-🧬 **[Project Name]** – Brief description + key tech used  
-📊 **[Project Name]** – Brief description + key tech used  
+🔎 **[Pepper Bell Leaf]** – Located in Project 1
 
 
 
