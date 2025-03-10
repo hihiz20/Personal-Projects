@@ -4,7 +4,7 @@ This repository is a collection of diverse projects combining AI and Science. Pl
 
 
 ## 🔥 Projects In progress  
-🔎 **[Pepper Bell Leaf]** – Located in Project 1
+**[Pepper Bell Leaf]** – Located in Project 1
 
 
 
