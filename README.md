@@ -1,6 +1,7 @@
-# >ᴗ< Welcome to My Projects Repository!  
+# >ᴗ< Welcome to My Projects Repository!
 
-This repository is a collection of diverse projects combining AI and Science. Please, feel free to explore!
+This repository is a collection of diverse projects combining AI and Science I do in my spare time.
+Please, feel free to explore!
 
 
 ## 🔥 Projects In progress  
