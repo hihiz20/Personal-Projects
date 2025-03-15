@@ -5,9 +5,9 @@ Please, feel free to explore!
 
 
 ## 🔥 Projects In progress  
-**[Pepper Bell Leaf]** – Located in Project 1                                                                                    
-
-**Project 2 comming soon!**
+**[Pepper Bell Leaf]** – Project 1                                                                                   
+**[Eye Mouse Controller]** - Project 2                                                                                          
+project 3 comming soon
 
 
 
