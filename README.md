@@ -5,7 +5,8 @@ Please, feel free to explore!
 
 
 ## 🔥 Projects In progress  
-**[Pepper Bell Leaf]** – Located in Project 1
+**[Pepper Bell Leaf]** – Located in Project 1                                                                                    
+
 **Project 2 comming soon!**
 
 
