@@ -8,7 +8,8 @@ Please, feel free to explore!
 **[Pepper Bell Leaf]** – Project 1                                                                                   
 **[Eye Mouse Controller]** - Project 2                                                                                          
 **[Plastic Ocean Detection With Deep Learning]** - Project 3                                                                    
-**[In Progress]** - Project 4 comming soon this week
+**[Marine Species Identification]** - Project 4 
+**[Marine Species Identification]** - Project 4 
 
 
 
