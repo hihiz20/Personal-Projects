@@ -9,9 +9,9 @@ Please, feel free to explore!
 **[Eye Mouse Controller]** - Project 2               
 
 ENVS Proejct
-**[Plastic Ocean Detection With Deep Learning]** - Project 3                                                                    
-**[Marine Species Identification]** - Project 4 
-**[Coral Bleaching Prediction]** - Project 5
+**[Plastic Ocean Detection With Deep Learning]** - Project 3   
+**[Coral Bleaching Prediction]** - Project 4                                                                                    
+**[Marine Species Identification]** - Project 5
 
 
 
