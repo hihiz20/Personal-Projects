@@ -8,7 +8,7 @@ Please, feel free to explore!
 **[Pepper Bell Leaf]** – Project 1                                                                                   
 **[Eye Mouse Controller]** - Project 2               
 
-ENVS Proejct
+ENVS & Marine Life Project                                                                                                      
 **[Plastic Ocean Detection With Deep Learning]** - Project 3   
 **[Coral Bleaching Prediction]** - Project 4                                                                                    
 **[Marine Species Identification]** - Project 5
